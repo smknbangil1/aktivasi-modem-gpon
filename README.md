@@ -1,7 +1,7 @@
 Konfigurasi: Cara aktivasi modem gpon di OLT Zte C300:
 ```code
 Jasa setting mikrotik dan OLT +62822-3348-3221 (PURWANTO)
----
+```
 utk SuryaNET, Beji, Pasuruan, Jawa Timur
 ---
 
